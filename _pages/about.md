@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a phd Candidate in Linguistics at Université Paris Cité
+I am a phd Candidate in Linguistics at Université Paris Cité, supervised by
 
 A data-driven personal website
 ======
